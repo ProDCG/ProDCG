@@ -6,3 +6,5 @@
 ## Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
+<!--END_ACTION:activity-->
