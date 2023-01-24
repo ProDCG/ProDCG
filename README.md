@@ -7,6 +7,12 @@
   <a href="https://github.com/sponsors/ProDCG"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ProDCG&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ProDCG&theme=dark&hide_border=true"/>
+</p>
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProDCG&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProDCG&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
