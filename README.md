@@ -8,4 +8,4 @@
 - **space algorithms and technologies** @ jhuapl
 - building **algorithmic trading software** @ stockvocate
 - **FHE** research @ northeastern
-- former lead prog @ ftc 16379 kookybotz
+- former lead prog @ ftc 16379 alum
