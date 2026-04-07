@@ -6,5 +6,5 @@
 
 - **space algorithms and technologies** @ jhu applied physics lab
 - building **algorithmic trading software** @ stockvocate
-- **fhe** research @ northeastern
+- **fhe, hri, and hpc** research @ northeastern
 - former lead prog @ ftc 16379
